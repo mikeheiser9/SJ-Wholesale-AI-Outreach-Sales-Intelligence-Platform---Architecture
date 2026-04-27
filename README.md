@@ -1,6 +1,6 @@
 # SJ Wholesale — AI Outreach & Sales Intelligence Platform
 
-![Project Logo](./public/sjw-fav.png)
+<img src="./public/sjw-fav.png" alt="Project Logo" width="100" />
 
 > An autonomous, AI-orchestrated B2B outbound engine that discovers, qualifies, contacts, and classifies surplus-IT-equipment sellers at scale — turning a cold-calling operation into a self-running sales pipeline.
 
